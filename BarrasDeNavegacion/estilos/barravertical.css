@@ -1,0 +1,19 @@
+a{
+	display:block;
+	background:orange;
+	padding:20px;
+	text-decoration:none;
+	font-weight:bold;
+	color:black;
+}
+a:hover{
+		background-color:blue;
+		color:white;
+}
+li{
+	list-style-type:none;
+	margin:10px;
+	width:25%;
+
+}
+
